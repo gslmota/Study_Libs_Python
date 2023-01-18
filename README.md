@@ -1,2 +1,4 @@
-# Study_Pandas
-Lib pandas studies
+# Study_Libs_Python
+Lib python studies
+* Pandas
+* Numpy
